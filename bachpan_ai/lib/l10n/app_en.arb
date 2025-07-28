@@ -1,0 +1,11 @@
+{
+  "appTitle": "Bubella AI",
+  "login": "Login",
+  "signup": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "language": "Language",
+  "welcome": "Welcome to Bachpan AI!",
+  "@@locale": "en"
+} 
